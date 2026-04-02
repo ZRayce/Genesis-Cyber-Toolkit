@@ -20,20 +20,19 @@ This toolkit focuses on **defensive security**, analysis, and safe password reco
 * Built-in libraries: `hashlib`, `socket`, `itertools`, `string`
 
 ## 📦 Project Structure
-
 ```
-cyber_toolkit/
-│
-├── main.py
-├── tools/
-│   ├── password_checker.py
-│   ├── hash_generator.py
-│   ├── port_scanner.py
-│   └── url_checker.py
-│   └── password_recovery.py
-│
-├── utils/
-└── README.md
+>Genesis-Cyber-Toolkit
+    >tools/
+        >hash_generator.py
+        >password_checker.py
+        >password_recovery.py
+        >port_scanner.py
+        >url_checker.py
+    >utils/
+        >LICENCSE
+        >README.md
+>.gitignore
+>main.py        
 ```
 
 ## ▶️ How to Run
