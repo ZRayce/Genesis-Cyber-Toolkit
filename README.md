@@ -6,8 +6,6 @@ Genesis Cyber Toolkit is a beginner-friendly Python project designed to demonstr
 
 This toolkit focuses on **defensive security**, analysis, and safe password recovery techniques.
 
----
-
 ## 🚀 Features
 
 * 🔐 Password Strength Checker
@@ -16,14 +14,10 @@ This toolkit focuses on **defensive security**, analysis, and safe password reco
 * 🔍 URL Safety Checker
 * 🔑 Password Recovery Assistant (pattern-based)
 
----
-
 ## 🛠️ Technologies Used
 
 * Python 3
 * Built-in libraries: `hashlib`, `socket`, `itertools`, `string`
-
----
 
 ## 📦 Project Structure
 
@@ -42,22 +36,16 @@ cyber_toolkit/
 └── README.md
 ```
 
----
-
 ## ▶️ How to Run
 
 ```bash
 python main.py
 ```
 
----
-
 ## ⚠️ Disclaimer
 
 This project is created for **educational purposes only**.
 All tools are designed for **personal, ethical, and defensive use**.
-
----
 
 ## 📌 Future Improvements
 
@@ -66,13 +54,9 @@ All tools are designed for **personal, ethical, and defensive use**.
 * Log analysis module
 * API integrations
 
----
-
 ## 👨‍💻 Author
 
 Rayce Fillon
-
----
 
 ## ⭐ Notes
 
